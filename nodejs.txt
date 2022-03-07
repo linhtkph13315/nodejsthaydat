@@ -1,0 +1,7 @@
+B1: Tạo file app.js
+B2: git init
+B3: git add .
+B4: git branch -M main
+B5: git commit -m "init project"
+B6: git remote add origin repo_url
+B6: git push origin main
