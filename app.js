@@ -37,7 +37,7 @@ const sever = http.createServer((req, res) => {
        res.end();
     }
 });
-
+console.log('ahii');
 const PORT = 3001;
 sever.listen(PORT, () => {
     console.log(`Sever running port ${PORT}`);
